@@ -10,3 +10,4 @@ Thank you for your interest!
 Hanna Jackson 
 
 ![BC_Bombus occidentalis male_Goldenrod](https://github.com/Hanna-Jackson/bumble-bee-climate/assets/71409828/988e7d0b-cf03-4afc-a4e3-a34cb0fe88c0)
+Photo Credit - Sarah Johnson
