@@ -1,7 +1,7 @@
 # occupancy-workshop
 
 This is a workshop for people unfamiliar with occupancy models! 
-It includes a presentation outlining the theory of why and how occupancy models work, and the is followed by some simply data preparation steps, running two different models in JAGS, plotting their output and, finally, thinking about why the two models give different estimates. 
+It includes a presentation outlining the theory of why and how occupancy models work, and the is followed by data preparation, running two different models in JAGS, plotting their output and, finally, thinking about why the two models give different estimates. 
 
 All the objects we make along the way are saved to this repository, including model outputs and figures in case something goes wrong and you cannot run the code. 
 
